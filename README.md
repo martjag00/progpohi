@@ -1,1 +1,1 @@
-# progpohi
+# Martini  programmeerimise põhikursus
